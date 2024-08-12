@@ -14,7 +14,7 @@
 
 <p align="center">
   <h2 align="center">Desktop:</h2>
-  <img alt="preview do projeto, Figma" src=".github/projeto.jpg" width="100%">
+  <img alt="preview do projeto, Figma" src="assets/projeto.jpg" width="100%">
 </p>
 
 
